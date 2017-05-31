@@ -9,4 +9,8 @@ class Valami extends Masik {
     function __construct() {
         
     }
+
+    function szamol() {
+        return 2*2;
+    }
 }
