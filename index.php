@@ -9,6 +9,9 @@ class Valami extends Masik {
     function __construct() {
         print 'ez a konstruktor';
     }
+
+    function szamol() {
+        return 2*2;
     
     function szum(){
         
