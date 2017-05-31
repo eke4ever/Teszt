@@ -12,7 +12,7 @@ class Valami extends Masik {
 
     function szamol() {
         return 2*2;
-    
+    }
     function szum(){
         
     }
