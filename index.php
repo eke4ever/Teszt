@@ -5,5 +5,6 @@
  * Date: 2017.05.31.
  * Time: 11:14
  */
+class Valami extends Masik {
 
-phpinfo();
+}
