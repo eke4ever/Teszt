@@ -8,4 +8,6 @@
 
 phpinfo();
 
+print 'valami';
+
 ?>
